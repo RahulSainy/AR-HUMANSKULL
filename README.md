@@ -17,7 +17,7 @@ Experience Human Skull Structure with Augmented Reality and Learn using Augmente
 install CoronaARModel.exe.
 
 ```bash
-CoronaARModel.exe
+Human Skull.exe
 ```
 
 ## Usage
